@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edgy ( ͡❛ ͜ʖ ͡❛)✌</h1>
+<h1 align="center">Hi 👋, I'm Edgy Gilles ( ͡❛ ͜ʖ ͡❛)✌</h1>
 <h3 align="center">A passionate Fullstack developer from New York</h3>
 
 ![giphy](https://user-images.githubusercontent.com/105736516/175617851-f1e251b2-eaf4-4de7-b111-96a05a556b61.gif)
